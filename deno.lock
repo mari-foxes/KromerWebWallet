@@ -10,6 +10,7 @@
     "npm:js-sha256@~0.11.1": "0.11.1",
     "npm:svelte@5": "5.36.10_acorn@8.15.0",
     "npm:tailwindcss@4": "4.1.11",
+    "npm:uuid@^11.1.0": "11.1.0",
     "npm:vite@^7.0.4": "7.0.5_picomatch@4.0.3"
   },
   "npm": {
@@ -799,6 +800,9 @@
     "util-deprecate@1.0.2": {
       "integrity": "sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw=="
     },
+    "uuid@11.1.0": {
+      "integrity": "sha512-0/A9rDy9P7cJ+8w1c9WD9V//9Wj15Ce2MPz8Ri6032usz+NfePxx5AcN3bN+r6ZL6jEo066/yNYB3tn4pQEx+A=="
+    },
     "vite@7.0.5_picomatch@4.0.3": {
       "integrity": "sha512-1mncVwJxy2C9ThLwz0+2GKZyEXuC3MyWtAAlNftlZZXZDP3AJt5FmwcMit/IGGaNZ8ZOB2BNO/HFUB+CpN0NQw==",
       "dependencies": [
@@ -836,6 +840,7 @@
         "npm:js-sha256@~0.11.1",
         "npm:svelte@5",
         "npm:tailwindcss@4",
+        "npm:uuid@^11.1.0",
         "npm:vite@^7.0.4"
       ]
     }
