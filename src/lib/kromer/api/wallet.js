@@ -41,4 +41,8 @@ export class Wallet {
         this.names = names;
         this.firstSeen = firstSeen;
     }
+
+    sync() {
+        // TODO: sync the wallets with the api 
+    }
 }

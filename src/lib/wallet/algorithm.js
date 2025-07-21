@@ -1,4 +1,4 @@
-import { KromerDefaultCurrency } from "$lib/api/kromer/classes";
+import { KromerDefaultCurrency } from "$lib/kromer/api/classes";
 import { sha256 } from "js-sha256";
 
 export function doubleSha256(input) {
