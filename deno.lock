@@ -7,6 +7,7 @@
     "npm:@tailwindcss/forms@~0.5.9": "0.5.10_tailwindcss@4.1.11",
     "npm:@tailwindcss/typography@~0.5.15": "0.5.16_tailwindcss@4.1.11",
     "npm:@tailwindcss/vite@4": "4.1.11_vite@7.0.5__picomatch@4.0.3",
+    "npm:js-sha256@~0.11.1": "0.11.1",
     "npm:svelte@5": "5.36.10_acorn@8.15.0",
     "npm:tailwindcss@4": "4.1.11",
     "npm:vite@^7.0.4": "7.0.5_picomatch@4.0.3"
@@ -567,6 +568,9 @@
     "jiti@2.4.2": {
       "integrity": "sha512-rg9zJN+G4n2nfJl5MW3BMygZX56zKPNVEYYqq7adpmMh4Jn2QNEwhvQlFy6jPVdcod7txZtKHWnyZiA3a0zP7A=="
     },
+    "js-sha256@0.11.1": {
+      "integrity": "sha512-o6WSo/LUvY2uC4j7mO50a2ms7E/EAdbP0swigLV+nzHKTTaYnaLIWJ02VdXrsJX0vGedDESQnLsOekr94ryfjg=="
+    },
     "kleur@4.1.5": {
       "integrity": "sha512-o+NO+8WrRiQEE4/7nwRJhN1HWpVmJm511pBHUxPLtp0BUISzlBplORYSmTclCnJvQq2tKu/sgl3xVpkc7ZWuQQ=="
     },
@@ -829,6 +833,7 @@
         "npm:@tailwindcss/forms@~0.5.9",
         "npm:@tailwindcss/typography@~0.5.15",
         "npm:@tailwindcss/vite@4",
+        "npm:js-sha256@~0.11.1",
         "npm:svelte@5",
         "npm:tailwindcss@4",
         "npm:vite@^7.0.4"
