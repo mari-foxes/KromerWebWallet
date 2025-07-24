@@ -1,7 +1,13 @@
 <script>
 	import '../app.css';
-	
+	import Navigation from "$widgets/navigation.svelte"
+
 	let { children } = $props();
 </script>
 
-{@render children()}
+<div class="flex bg-[var(--accent-1)] text-white">
+  <Navigation />
+  <main class="flex-1 p-6 overflow-y-auto">
+    <slot />
+  </main>
+</div>

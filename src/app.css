@@ -1,3 +1,17 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/forms';
 @plugin '@tailwindcss/typography';
+
+/*bg-[var(--)]*/
+
+
+
+:root {
+    --accent-1: var(--color-stone-900);   /* #581C87 */
+    --accent-2: var(--color-stone-800);  /* #1C1917 */
+    --accent-3: var(--color-stone-600); 
+    --accent-4: var(--color-stone-400); 
+
+    --logo: var(--color-indigo-500);
+    --hover: var(--color-indigo-600);
+}
